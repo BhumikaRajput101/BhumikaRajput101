@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Bhumika Rajput
+
 
 I’m a **Aspiring Data Analyst & ML Enthusiast**  
 Practicing data analysis, machine learning & Python every day 🧠💻

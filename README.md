@@ -1,32 +1,47 @@
-# Hi 👋, I'm Bhumika Rajput
+# 👋 Hi there, I'm [Your Name]
+
+I’m a **Aspiring Data Analyst & ML Enthusiast**  
+Practicing data analysis, machine learning & Python every day 🧠💻
+---
+
+## 🛠️ Skills & Technologies
+### 💻 Languages
+Python | C++
+
+### ⚙️ Frameworks & Tools
+Jupyter Notebook | Pandas | NumPy | Scikit-learn | Matplotlib
+
+### 🧠 Concepts
+Machine Learning | Data Analysis 
+
+---
+
+---
+
+## 📦 Featured Projects
+### ⭐ [Project 1] (https://github.com/BhumikaRajput101/Ml_Model_1)
+ Predict FWS value of forest fire record 
+Tech: Python, Flask, HTML 
+
+### 🔥 [Project 2] https://github.com/BhumikaRajput101/python_program
+Regular python pratices
+Tech: React, Node.js
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+- ✉️ Email: rajputbhumi101@gmail.com
 
 
-username = "BhumikaRAjput101"
-name = "Bhumika Rajput"
-role = " Machine Learning Learner | Python Enthusiast | Data Science Fundamentals "
-location = "India"
 
-skills = [
-"Python", "NumPy", "Pandas", "Seaborn",
-"Matplotlib", "Git", "GitHub"
-]
+## 🎯 Fun Facts
+- 🚀 I love coding & coffee ☕
+- 📚 Currently exploring **Machine Learning**
 
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(f"# Hi 👋, I'm {name}\n\n")
-f.write(f"### {role}\n\n")
-f.write(f"📍 Location: **{location}**\n\n")
 
-    f.write("## 🚀 Skills\n")
-    for skill in skills:
-        f.write(f"- {skill}\n")
-
-    f.write("\n## 📊 GitHub Stats\n")
-    f.write(f"![GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=tokyonight)\n\n")
-
-    f.write("## 🔥 Streak Stats\n")
-    f.write(f"![GitHub Streak](https://streak-stats.demolab.com?user={username}&theme=tokyonight)\n\n")
-
-    f.write("## 📫 Connect with me\n")
-    f.write("- Email: rajputbhumi101@gmail.com\n")
-
-print("README.md created successfully!")
